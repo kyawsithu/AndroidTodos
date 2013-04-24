@@ -1,0 +1,8 @@
+AndroidTodos
+============
+
+Todo list example for android programming
+
+This sample source codes is intended for the developers who are at the starting point to android programming.
+
+You can freely reuse. modify or copy any piece of the program at your own risk.
